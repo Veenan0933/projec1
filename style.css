@@ -1,5 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
 body{
-    background-color: indianred;
+    background-color: rgb(235, 171, 171);
     font-family: 'Mali', cursive;
+}
+div{
+    color:rgb(218, 89, 110);
+}
+.bg-color-pink{
+    background-color:rgb(112, 216, 202)
+}
+.bg-color-blue{
+    background-color:blue;
+}
+.border-1-radius-5{
+    background-color: #ed710a;
+    color: #cda833;
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
 }
